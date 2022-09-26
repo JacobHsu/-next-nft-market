@@ -4,6 +4,8 @@ This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v3.0)](
 
 `yarn create next-app -e with-tailwindcss [project]`
 
+next-mui-template ergo-pad / [nft-market](https://github.com/ergo-pad/nft-market)
+
 ## Deploy your own
 
 Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=next-example) or preview live with [StackBlitz](https://stackblitz.com/github/vercel/next.js/tree/canary/examples/with-tailwindcss)
