@@ -1,6 +1,6 @@
 import React from "react";
 import Head from "next/head";
-// import Header from "@components/layout/Header";
+import Header from "@components/layout/Header";
 
 import { motion } from "framer-motion";
 import { useRouter } from "next/router";
@@ -21,7 +21,7 @@ const Layout = ({ children }: { children: React.ReactNode }) => {
         <link rel="icon" href="/favicon.ico" />
         <title>Template</title>
       </Head>
-      {/* <Header /> */}
+      <Header />
       <motion.main
         variants={variants}
         initial="hidden"
